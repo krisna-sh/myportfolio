@@ -23,3 +23,15 @@ body {
       0 0 40px rgba(112, 164, 207, 0.3);
   color: white;
 }
+.buttons button {
+    padding: 8px 15px;
+    margin-right: 10px;
+    border: none;
+    background-color: #d3d9e0;
+    color: rgb(20, 16, 16);
+    border-radius: 5px;
+    cursor: pointer;
+}
+.buttons button:hover {
+    background-color: #4e9dc2;
+}
